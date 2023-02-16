@@ -32,7 +32,7 @@ def get_matching_birthdays(b):
 # month_name = b[1].month
 # print(month_name)
 # Display the intro:
-print('''Birthday Paradox, by Al Sweigart al@inventwithpython.com
+print('''
  
   The Birthday Paradox shows us that in a group of N people, the odds
   that two of them have matching birthdays is surprisingly large.
